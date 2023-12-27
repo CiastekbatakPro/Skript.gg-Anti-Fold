@@ -1,1 +1,1 @@
-fiveguard-resource-name = "fiveguardresourcename"
+fiveguard_resource_name = "fiveguardresourcename"
